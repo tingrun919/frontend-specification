@@ -1,4 +1,4 @@
-# 作为项目部的前端只是储备以及规则指定
+# 作为项目部的前端只是储备以及规则制定
 
 
 ## 规则
@@ -6,3 +6,5 @@
 
 
 ## 储备
+
+* [还没有，谁来创建第一个鸭🦆](https://github.com/tingrun919/frontend-specification/issues/1)
