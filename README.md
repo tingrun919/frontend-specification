@@ -9,4 +9,4 @@
 
 * [还没有，谁来创建第一个鸭🦆](https://github.com/tingrun919/frontend-specification/issues/1)
 
-* [⛴ Docker的基本使用](https://github.com/tingrun919/frontend-specification/issues/2)
+* [🐳 Docker的基本使用](https://github.com/tingrun919/frontend-specification/issues/2)
